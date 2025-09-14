@@ -1,0 +1,6 @@
+kind: wasmer.io/App.v0
+name: MyFirstStepsAtMakingABlog
+owner: nonameusernum120
+package: .
+scaling:
+  mode: single_concurrency
